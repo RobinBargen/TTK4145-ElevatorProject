@@ -1,0 +1,5 @@
+package elev
+
+func getOrder(direction string, floor int) int {
+
+}
